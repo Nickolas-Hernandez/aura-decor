@@ -41,10 +41,38 @@ Home decor/furniture stores for inspiration:
 - https://www.arhaus.com/
 - https://brhome.com/
 
-## Design
-_Coming Soon_
+## Feature List
 
-## Figma Design Files
+- Customizable Mega Menu for extensive navigation options.
+- Dynamic Promotional Banners and Pop-Ups for marketing campaigns.
+- Advanced Search Functionality with filters and auto-suggestions.
+- Augmented Reality and 3D Previews for immersive product interaction.
+- Artificial Intelligence-powered Product Recommendations.
+- High-Resolution Product Galleries for detailed visuals.
+- Integration with Social Media for enhanced reach and engagement.
+- Comprehensive Customer Accounts for personalized shopping experiences.
+- Product Customization Options to cater to customer preferences.
+- Real-Time Inventory Management to display current product availability.
+- Customer Reviews and Ratings to provide social proof.
+- Related Product Suggestions and Upsells to increase average order value.
+- Detailed Sales and Visitor Analytics for informed decision-making.
+
+## Pages
+
+### Core Pages
+- **Home Page**: Featuring hero banners, featured products, and brand storytelling.
+- **Shop Pages**: Including a complete product catalog, categorized views, and detailed product pages.
+
+### Support and Information
+- **Customer Service Pages**: Contact form, FAQ, shipping and returns policies, privacy policy, and terms & conditions.
+- **Customer Account Area**: Login/register functions, account dashboard, order history, and wishlist management.
+
+### Purchase and Engagement
+- **Checkout Process**: A streamlined, secure checkout experience.
+- **Search Results Page**: Displaying products relevant to the customer's search queries.
+
+
+## Wireframe & Design
 _Coming Soon_
 
 ## Technical Overview
