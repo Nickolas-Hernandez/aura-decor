@@ -29,7 +29,19 @@ Showcase repository for 'Aura Decor' — a conceptual Shopify storefront demonst
 - Maintain thorough documentation within the codebase to highlight best coding practices.
 - Design the storefront's architecture with scalability in mind, ready for business growth.
 
-## Feature List
+## Research
+
+Home decor/furniture stores for inspiration: 
+- https://denvermodern.com/
+- https://www.article.com/
+- https://www.roveconcepts.com/
+- https://www.thuma.co/
+- https://maidenhome.com/
+- https://www.castlery.com/us/
+- https://www.arhaus.com/
+- https://brhome.com/
+
+## Design
 _Coming Soon_
 
 ## Figma Design Files
