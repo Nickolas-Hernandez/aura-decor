@@ -73,7 +73,8 @@ Home decor/furniture stores for inspiration:
 
 
 ## Wireframe & Design
-_Coming Soon_
+
+https://www.figma.com/file/g00LedMpgO7Qa19EO9qxOt/Aura-Decor?type=design&t=nhouOze16gAfeSyX-6
 
 ## Technical Overview
 _Coming Soon_
